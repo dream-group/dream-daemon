@@ -1,0 +1,14 @@
+{
+    "name": "dream-group/dream-daemon",
+    "description": "Client/server wrapper for daemon communication",
+    "keywords": [],
+    "type": "project",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dream\\Daemon\\": "src"
+        }
+    }
+}
